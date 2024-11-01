@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU GPLv3"
+
+[[mods]]
+modId="ribspanning"
+version="0.0.1"
+displayName="Ribs Panning"
+authors="Ribs"
+credits="Ribs"
+description="A Simple Panning Mod"
+
+[[dependencies.ribspanning]]
+modId="forge"
+mandatory=true
+versionRange="[46, 48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.ribspanning]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20, 1.20.2)"
+ordering="NONE"
+side="BOTH"

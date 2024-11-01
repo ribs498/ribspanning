@@ -1,0 +1,20 @@
+{
+  "item.ribspanning.clay_pan": "Clay Pan",
+  "item.ribspanning.copper_pan": "Copper Pan",
+  "item.ribspanning.iron_pan": "Iron Pan",
+    "item.ribspanning.diamond_pan": "Diamond Pan",
+    "item.ribspanning.netherite_pan": "Netherite Pan",
+  "creativetab.panning_tab": "Panning Tab",
+  "enchantment.ribspanning.gentle_shake": "Gentle Shake",
+  "enchantment.ribspanning.gentle_shake.desc": "Adds a chance to not consume the pannable item",
+  "message.ribspanning.no_pannable_item": "No Pannable Item!",
+  "message.ribspanning.not_in_water": "You Must Be In A Fluid To Pan!",
+  "message.ribspanning.wrong_fluid": "Wrong Fluid!",
+  "message.ribspanning.pan_blacklisted": "Cant Use This Pan!",
+  "jei.ribspanning.panning": "Panning",
+  "jei.ribspanning.chance": "Chance: %s",
+  "jei.ribspanning.input": "Panning Item",
+  "jei.ribspanning.pan_blacklist": "Cannot use these pans",
+  "jei.ribspanning.fluid": "Must be standing in %s",
+  "tooltip.ribspanning.panitem.instructions": "Hold a pannable item in your offhand and be in the required fluid to use."
+}

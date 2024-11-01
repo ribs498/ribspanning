@@ -1,0 +1,76 @@
+{
+  "type": "ribspanning:panning",
+  "input": {
+    "item": "minecraft:soul_sand"
+  },
+  "drops": [
+    {
+      "item": {
+        "item": "minecraft:quartz",
+        "count": 1
+      },
+      "chance": 25.0
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_nugget",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:blaze_powder",
+        "count": 1
+      },
+      "chance": 5.0
+    },
+    {
+      "item": {
+        "item": "minecraft:bone",
+        "count": 1
+      },
+      "chance": 15.0
+    },
+    {
+      "item": {
+        "item": "minecraft:rotten_flesh",
+        "count": 1
+      },
+      "chance": 15.0
+    },
+    {
+      "item": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+      },
+      "chance": 1.0
+    },
+    {
+      "item": {
+        "item": "minecraft:gunpowder",
+        "count": 1
+      },
+      "chance": 5.0
+    },
+    {
+      "item": {
+        "item": "minecraft:glowstone_dust",
+        "count": 1
+      },
+      "chance": 5.0
+    },
+    {
+      "item": {
+        "item": "minecraft:ender_pearl",
+        "count": 1
+      },
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.1,
+  "fluid": "minecraft:lava",
+  "pan_blacklist": {
+    "item": "ribspanning:clay_pan"
+  }
+}

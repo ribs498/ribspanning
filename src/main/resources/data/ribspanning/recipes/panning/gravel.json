@@ -1,0 +1,58 @@
+{
+  "type": "ribspanning:panning",
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "drops": [
+    {
+      "item": {
+        "item": "minecraft:clay_ball",
+        "count": 1
+      },
+      "chance": 20.0
+    },
+    {
+      "item": {
+        "item": "minecraft:stick",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:bone",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_nugget",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:flint",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:coal",
+        "count": 1
+      },
+      "chance": 10.0
+    },
+    {
+      "item": {
+        "item": "minecraft:angler_pottery_sherd",
+        "count": 1
+      },
+      "chance": 1.0
+    }
+  ],
+  "experience": 1.0
+}
